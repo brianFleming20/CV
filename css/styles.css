@@ -93,14 +93,14 @@ a:hover{
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px;
+  right: 250px;
+  top: 8%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 270px;
-  bottom: 400px;
+  left: 300px;
+  top: 45%;
 }
 
 .contact-message{
